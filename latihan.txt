@@ -1,0 +1,16 @@
+Buatlah applikasi yang memiliki fitur :
+
+1. Authentication
+    - [x] register
+    - [x] basic Authentication
+    - [x] google OAuth2
+
+2. Media upload menggunakan multer
+    - [x] upload gambar -> png, jpg, jpg
+    - [x] upload video -> mp4
+    - [x] upload file -> pdf, docs, xlxx
+
+    - [] update photo profile -> relasi ke gambar
+
+3. Role
+    - [] media upload video dan file hanya bisa diakses admin
